@@ -10,7 +10,9 @@ export default function Home() {
                type='text' placeholder='Search...' />
         <button className='bg-black text-white py-2 rounded-full 
                 active:scale-90 focus:scale-90 transition-transform font-medium' 
-                type='submit'>Search</button>
+                type='submit'>
+            Search
+        </button>
       </div>
     </main>
   );
